@@ -1,4 +1,4 @@
-## Existing projects by language:
+## Existing projects by language
 
 https://github.com/SuperTux/supertux - Mario-like platform game, **C++**
 
@@ -28,3 +28,8 @@ https://github.com/gsantner/markor - Text editor for Android in **Java**.
 
 https://github.com/Graylog2/graylog2-server - Log management written in **Java**
 
+## Others
+
+Create a movie recommendation system using the [Surprise library](https://github.com/NicolasHug/Surprise) (Python)
+
+Find any project with a web interface and make it friendlier.
