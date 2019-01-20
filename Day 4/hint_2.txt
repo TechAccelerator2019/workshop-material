@@ -1,2 +1,0 @@
-# What does the following line?
-cat /usr/lib/python2.7/LICENSE.txt | grep -c GPL
